@@ -8,7 +8,8 @@ QuizApp is a dynamic and user-friendly web application built with **ReactJS**. I
 - ✅ **Score Calculation:** Automatically calculates the user's score based on their responses.  
 - 🎉 **Final Score Display:** Shows the user's total score at the end of the quiz.  
 
-![image](https://github.com/user-attachments/assets/6ae20172-bf32-4a9e-928d-263d36908118)
+![image](https://github.com/user-attachments/assets/b4d4b1d7-c16b-4954-81f4-ea3317113cf4)
+
 
 
 ## 🛠️ Built With  
